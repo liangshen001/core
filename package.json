@@ -1,0 +1,25 @@
+{
+  "name": "@moon-boot/core",
+  "version": "1.0.0",
+  "description": "快速构建一个node应用的框架，类似于java中的spring boot",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "ts-decorators-utils": "1.1.1",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "ts-decorators-utils": "1.1.1",
+    "tslint": "~5.9.1",
+    "typescript": "^3.5.3",
+    "ts-node": "^8.3.0",
+    "reflect-metadata": "^0.1.13"
+  }
+}
